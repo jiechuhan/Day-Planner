@@ -14,7 +14,7 @@ $(document).ready(function () {
         }
     }
     display()
-
+    
 
     // change color
     function changeColor() {
